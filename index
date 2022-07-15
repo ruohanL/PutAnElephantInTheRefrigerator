@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="css/main.css" rel="stylesheet"/>
+    <title>怎么把大象饭放进冰箱</title>
+</head>
+<body>
+
+
+<div id="main">
+    <div class="preface"> [A:] Hi!这是一个简单小游戏 请输入 start 开始游戏。</div>
+    <br>
+</div>
+
+<span class="prefix">[<span id="ai"></span><span class="master">B-></span>] </span>
+<input type="text" class="input-text">
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
